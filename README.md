@@ -1,2 +1,0 @@
-# CPMAiman0
-CPMAIMAN
