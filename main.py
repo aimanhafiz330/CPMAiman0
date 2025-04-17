@@ -9,8 +9,8 @@ from rich.text import Text
 from rich.style import Style
 from cpmtool import CPMtool
 
-__CHANNEL_USERNAME__ = "cpmtool"
-__GROUP_USERNAME__   = "cpmtool_chat"
+__CHANNEL_USERNAME__ = "cpmkingchannel"
+__GROUP_USERNAME__   = "cpm"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
