@@ -6,9 +6,9 @@
 
 4. pkg install python-pip
 
-5. git clone https://github.com/cpmsale/cpmtool.git
+5. git clone https://github.com/aimanhafiz330/CPMAiman0.git
 
-6. cd cpmtool
+6. cd CPMAiman0
 
 7. git pull
 
